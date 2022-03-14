@@ -2,4 +2,4 @@
 
 模擬遮版的廣告視窗
 
-![image]("/demo.png")
+![image](/demo.png)
